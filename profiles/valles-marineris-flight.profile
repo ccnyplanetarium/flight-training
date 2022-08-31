@@ -27,12 +27,12 @@
   ],
   "additional_scripts": [
     "openspace.time.setPause(true)",
-    "openspace.navigation.loadNavigationState('${USER}/data/assets/flight-navigation-state.txt')"
+    "openspace.navigation.loadNavigationState('${USER}/data/assets/data/valles-marineris-start.txt')"
   ],
   "assets": [
     "baseReduced",
     "scene/solarsystem/planets/earth/earth",
-    "${USER}/data/assets/training-targets"
+    "${USER}/data/assets/flight-training-mars-valles-marineris"
   ],
   "camera": {
     "altitude": 15000000.0,
