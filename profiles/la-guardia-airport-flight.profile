@@ -86,11 +86,11 @@
     "ISS"
   ],
   "meta": {
-    "author": "OpenSpace Team",
-    "description": "Default OpenSpace Profile. Adds Earth satellites not contained in other profiles.",
-    "license": "MIT License",
-    "name": "Default",
-    "url": "https://www.openspaceproject.com",
+    "author": "CCNY Planetarium",
+    "description": "Flight training practice at La Guardia Airport.",
+    "license": "CC-BY",
+    "name": "la-guardia-airport-flight",
+    "url": "https://ccnyplanetarium.org/",
     "version": "1.0"
   },
   "properties": [
