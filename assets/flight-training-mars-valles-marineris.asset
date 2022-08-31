@@ -4,7 +4,7 @@ local mars = asset.require('scene/solarsystem/planets/mars/mars')
 -- directly above is the file location of the object OpenSpace is focused on.
 local debugHelper = asset.require('util/debug_helper')
 
-local objectPositions = asset.localResource("flight-coordinates.csv")
+local objectPositions = asset.localResource("valles-marineris-flight-coordinates.csv")
 -- This CSV file contains information regarding the location and rotation of each ring.
 local textures = asset.localResource("textures")
 local models = asset.localResource("models")
