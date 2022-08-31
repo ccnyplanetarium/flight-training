@@ -3,7 +3,7 @@ local transforms = asset.require("scene/solarsystem/sun/transforms")
 local earth = asset.require('scene/solarsystem/planets/earth/earth')
 local debugHelper = asset.require('util/debug_helper')
 
-local objectPositions = asset.localResource("flight-training-on-earth-1.csv")
+local objectPositions = asset.localResource("mt-elbert-flight-coordinates.csv")
 local textures = asset.localResource("textures")
 local models = asset.localResource("models")
 local LightSources = {
@@ -160,8 +160,7 @@ end)
 asset.meta = {
     Name = "Objects",
     Version = "1.0",
-    Description = "TestRotations",
-    Author = "James Hedberg",
-    URL = "https://jameshedberg.com",
+    Author = "CCNY Planetarium",
+    URL = "https://ccnyplanetarium.org/",
     License = "CC-BY"
 }
