@@ -86,11 +86,11 @@
     "ISS"
   ],
   "meta": {
-    "author": "OpenSpace Team",
-    "description": "Default OpenSpace Profile. Adds Earth satellites not contained in other profiles.",
-    "license": "MIT License",
-    "name": "Default",
-    "url": "https://www.openspaceproject.com",
+    "author": "CCNY Planetarium",
+    "description": "Flight training practice at Mt. Elbert.",
+    "license": "CC-BY",
+    "name": "mt-elbert-flight",
+    "url": "https://ccnyplanetarium.org/",
     "version": "1.0"
   },
   "properties": [
