@@ -160,7 +160,6 @@ end)
 asset.meta = {
     Name = "Objects",
     Version = "1.0",
-    Description = "TestRotations",
     Author = "CCNY Planetarium",
     URL = "https://ccnyplanetarium.org/",
     License = "CC-BY"
