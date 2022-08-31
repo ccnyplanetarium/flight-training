@@ -27,12 +27,12 @@
   ],
   "additional_scripts": [
     "openspace.time.setPause(true)",
-    "openspace.navigation.loadNavigationState('${USER}/data/assets-dev/flight-practice/grandcanyonriverstart.txt')"
+    "openspace.navigation.loadNavigationState('${USER}/data/assets/data/grand-canyon-start.txt')"
   ],
   "assets": [
     "baseReduced",
     "scene/solarsystem/planets/earth/earth",
-    "${USER}/data/assets-dev/flight-practice/make-targets-for-grand-canyon"
+    "${USER}/data/assets/flight-training-earth-grand-canyon"
   ],
   "camera": {
     "altitude": 15000000.0,
