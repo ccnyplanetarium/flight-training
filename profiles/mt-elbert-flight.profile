@@ -27,12 +27,12 @@
   ],
   "additional_scripts": [
     "openspace.time.setPause(true)",
-    "openspace.navigation.loadNavigationState('${USER}/data/assets-dev/flight-practice/earthflight1start.txt')"
+    "openspace.navigation.loadNavigationState('${USER}/data/assets/data/mt-elbert-start.txt')"
   ],
   "assets": [
     "baseReduced",
     "scene/solarsystem/planets/earth/earth",
-    "${USER}/data/assets-dev/flight-practice/make-targets-for-earth-flight-1"
+    "${USER}/data/assets/flight-training-earth-mt-elbert"
   ],
   "camera": {
     "altitude": 15000000.0,
