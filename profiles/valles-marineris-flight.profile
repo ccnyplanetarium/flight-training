@@ -40,7 +40,6 @@
     "latitude": -5.6411,
     "longitude": -75.2905,
     "type": "goToGeo"
-    -- other than the the altitude, the information here is related to the loadNavigationState.
   },
   "delta_times": [
     1.0,
